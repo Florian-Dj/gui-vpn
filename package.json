@@ -4,7 +4,8 @@
   "description": "create GUI with VPN connection on AWS spot VM",
   "main": "main.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Florian-Dj/gui-vpn/issues"
   },
-  "homepage": "https://github.com/Florian-Dj/gui-vpn#readme"
+  "homepage": "https://github.com/Florian-Dj/gui-vpn#readme",
+  "devDependencies": {
+    "electron": "^19.0.8"
+  }
 }
