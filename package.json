@@ -1,0 +1,19 @@
+{
+  "name": "gui-vpn",
+  "version": "0.0.1",
+  "description": "create GUI with VPN connection on AWS spot VM",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florian-Dj/gui-vpn.git"
+  },
+  "author": "Florian DJERBI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Florian-Dj/gui-vpn/issues"
+  },
+  "homepage": "https://github.com/Florian-Dj/gui-vpn#readme"
+}
